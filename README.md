@@ -11,7 +11,7 @@ Bu proje, React Native kullanılarak geliştirilen bir mobil uygulamadır. Yelp 
 - 📞 Telefon numarası ve çalışma durumu (açık/kapalı)
 - 📍 Detay sayfasına navigasyon
 
-## 📷 Ekran Görüntüleri
+## 📷 Ekran Görüntüsü
 
 <img width="460" alt="restaurant-app" src="https://github.com/user-attachments/assets/e04fb08b-4ec7-40e7-b1ea-d98bfe0cdf5a" />
 
