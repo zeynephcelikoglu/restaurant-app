@@ -7,7 +7,7 @@ Bu proje, React Native kullanılarak geliştirilen bir mobil uygulamadır. Yelp 
 - 🔍 Arama çubuğu ile restoran arama
 - 💸 Fiyat kategorisine göre filtreleme (₺, ₺₺, ₺₺₺)
 - ⭐ Restoran puanı ve değerlendirme sayısı
-- 🖼️ Restoran görselleri (image_url ve detay sayfasında url)
+- 🖼️ Restoran görseli (image_url)
 - 📞 Telefon numarası ve çalışma durumu (açık/kapalı)
 - 📍 Detay sayfasına navigasyon
 
